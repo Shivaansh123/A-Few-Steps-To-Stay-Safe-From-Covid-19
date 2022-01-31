@@ -1,1 +1,1 @@
-# A-Few-Steps-To-Stay-Safe-From-Covid-19
+# COE_S35_Boilerplate
